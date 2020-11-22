@@ -1,1 +1,1 @@
-# GAN-based-Conversational-Bot
+# GAN-based Conversational-Bot
